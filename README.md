@@ -8,3 +8,6 @@ Proyecto de fin de curso de Computación Cuántica
 * Wilger Fabricio Aucapuri Corimanya - 200821
 * Jesus Gustavo Ochoa Barrios - 200519
 * Kevin Aron Sumire Ccahuana - 200827
+
+## Primera Entrega
+Código en python que implementa el algoritmo RSA con programación tradicional
