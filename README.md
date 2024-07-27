@@ -11,3 +11,6 @@ Proyecto de fin de curso de Computación Cuántica
 
 ## Primera Entrega
 Código en python que implementa el algoritmo RSA con programación tradicional
+
+## Segunda Entrega
+Código que muestra el proceso de desencriptación de RSA usando computación cuántica
